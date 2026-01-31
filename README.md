@@ -6,3 +6,8 @@ DSA Topics
      * one pointer moves when condition fails other when condition succeed
 
     
+Sliding Window
+    If problem mentioned substring / sub array
+    If elements are contiguous or problem ask max min avg or count
+    if window fix -fix size window
+    if window size varies 
